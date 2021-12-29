@@ -17,7 +17,7 @@ function Login() {
           onClick={authenticate}
           className="bg-yellow-500 rounded-lg p-5 font-bold animate-pulse"
         >
-          Login to the Metaverses
+          Login to the Metaverse
         </button>
       </div>
       <div className="w-full h-screen">
